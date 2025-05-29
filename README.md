@@ -1,3 +1,4 @@
+When we are getting orders for the catering how many sandwiches we have to make, we are doing small traingles from the whole sandwiches sometimes I faces hard to explain to the chef so why not I use my knowledge to do this then I did this. Just for learning purpose.
 # Sandwich Portion Planner 🍞🥪
 
 This app helps chefs and catering teams calculate how many sandwiches to prepare based on number of guests and portion type. Built with Streamlit.
